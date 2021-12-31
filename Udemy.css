@@ -1,0 +1,62 @@
+
+body{
+					background:#ffffff;
+}
+
+
+
+.List ul, h4{
+					color: #5ebbbb;
+					font-weight: bold;
+}
+
+.Tab Table th{
+					background-color:#5ebbbb;
+					color: white;
+					font-size: 10px;
+}
+
+.Container h2{
+					text-transform: uppercase;
+					font-size: 20px;
+					text-align: center;
+}
+
+.Tab Table{
+					border:3px solid #5ebbbb;
+					width: 300px;
+					margin-top: 60px;
+					margin-bottom: 25px;
+					
+}
+
+.Image img{
+					border: 3px solid #5ebbbb;
+					width: 42%;
+					min-height: 100px;
+					float: right;
+					position: absolute;
+					top: 70px;
+					right: 20px;
+					
+}
+
+section#side{
+					display: flex;
+					flex-direction: column-reverse;
+}		
+
+.List ul li{
+					margin-top: 5px;
+}
+
+.List ul{
+		margin-top: 2px;
+		margin-left: 2px;
+}
+
+.Container{
+					border-top: 2px solid black;
+					border-bottom: 2px solid black;
+					
+}
