@@ -1,0 +1,209 @@
+body{
+		font: 15px/1.5 Arial, Helvetica, sans-serif;
+		padding: 0;
+		margin: auto; 
+		background-color: #f4f4f4;
+
+}
+
+
+.Container{
+					width: 80%;
+				  margin:0 auto;  
+}
+ 
+
+
+.Contain{display: flex;
+justify-content: space-between;
+
+} 
+
+
+
+.button_1{
+					height: 38px;
+					background-color: #e8491d;
+					border: 0;
+					padding:0 20px 0 20px;
+					color: #ffffff;
+					
+}
+
+.Q{
+					width: 80%;
+					margin: auto; 
+}
+
+.quote{
+					width: 80%;
+					margin: auto; 
+}
+
+.dark{
+			padding: 15px;
+			background: #35424a;
+			color: white;
+			margin-top: 10px; 
+			margin-bottom: 10px;
+}
+
+header{
+		background-color: #35424a;
+	 padding: 15px;  
+		border-bottom: 3px solid #e8491d;
+		font-size: 25px;
+		
+}
+
+a{
+					color: white;
+					text-transform: uppercase;
+					
+}
+
+nav ul{				display: flex;
+
+					padding: 0;
+					list-style: none;
+					
+					
+}
+
+
+#branding h1{
+					color:white;
+					
+}
+
+li{
+					margin-right: 20px;
+					margin-top: 23px;
+}
+
+header .show, header .Current a{
+					color: #e8491d;
+					font-weight: bold;
+
+}
+
+
+header a:hover{
+					color: #13044e;
+					font-weight: bold;
+}
+
+
+section form{margin-top: 18px;
+			
+} 
+
+#Showcase{
+background: url("../img/Busy.jpg") no-repeat;
+background-size: cover;
+background-position: center; 
+min-height: 400px;
+color: white;
+text-align: center;
+}
+
+
+#Showcase h1{
+					padding-top:100px;
+					font-size: 55px;
+					
+}
+
+
+
+#Showcase p{
+					font-size: 22px;
+}
+
+
+#Newsletter{
+					padding: 15px;
+					color: #ffffff;
+					background: #35424a;		
+}
+
+#Newsletter .Container{
+					display: flex;
+					justify-content: space-between;
+}
+
+#Newsletter input[type="Email"]{
+					padding: 4px;
+					height: 25px;
+					width: 250px;
+}
+
+#boxes{
+					margin-top: 20px;
+					display: flex;
+					justify-content: space between;
+					
+}
+
+#boxes .box{
+					text-align: center;
+					width: 30%;
+					padding: 10px;
+}
+
+#boxes .box img{
+					width: 90px;
+}
+
+section#main{
+					display: flex;
+}
+
+.another{
+					display: flex;
+
+}
+
+
+.New{
+					margin-left: 45px;
+}
+
+
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+					width: 90%;
+					padding: 5px;
+}
+
+
+
+
+ul#services li{
+					width: 65%;
+					list-style: none;
+					padding: 20px;
+					border: #cccccc solid 1px;
+					margin-bottom: 5px;
+					background: #e6e6e6;
+					
+}
+
+
+footer{
+					padding: 20px;
+					margin-top: 20px;
+					color: #ffffff;
+					background-color: #e8491d;
+					text-align: center;
+					
+}
+
+.Form{			margin-right: 75px;
+					margin-top: 52px;
+					width: 80%;
+}
+
+.page-title{
+					margin-left: 38px;
+}
